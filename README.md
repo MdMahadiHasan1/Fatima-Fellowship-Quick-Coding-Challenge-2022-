@@ -1,4 +1,7 @@
-# Fatima-Fellowship-Quick-Coding-Challenge-2022-
+# Fatima-Fellowship-Quick-Coding-Challenge-(2022)
+
+
+# Deep Learning for Vision
 
 Upside down detector: Train a model to detect if images are upside down
 
